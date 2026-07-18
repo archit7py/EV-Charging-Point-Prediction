@@ -8,12 +8,12 @@ The goal of the project is to help governments, city planners, and businesses op
 
 ## 📌 Features
 
-- 📊 Data preprocessing and feature engineering
-- 🤖 Machine Learning model for charging point prediction
-- 📈 Model evaluation using multiple performance metrics
-- 📉 Data visualization and exploratory data analysis (EDA)
-- 💾 Easy-to-use prediction pipeline
-- 🔄 Scalable for real-world datasets
+- 📊 Data preprocessing and feature engineering.
+- 🤖 Machine Learning model for charging point prediction.
+- 📈 Model evaluation using multiple performance metrics.
+- 📉 Data visualization and exploratory data analysis (EDA).
+- 💾 Easy-to-use prediction pipeline.
+- 🔄 Scalable for real-world datasets.
 
 ---
 
