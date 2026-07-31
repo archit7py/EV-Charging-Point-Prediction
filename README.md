@@ -1,6 +1,6 @@
 # ⚡ EV-Charging-Point-Predictions
 
-A Machine Learning project that predicts the most suitable locations for Electric Vehicle (EV) charging stations based on various geographical, demographic, and infrastructure-related factors.
+A Machine Learning project that predicts the most suitable locations for Electric Vehicle (EV) charging stations based on various geographical, demographic, and infrastructure-related factor.
 
 The goal of the project is to help governments, city planners, and businesses optimize EV charging infrastructure by identifying high-demand locations.
 
